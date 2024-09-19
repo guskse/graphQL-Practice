@@ -21,9 +21,6 @@ export const typeDefs = `#graphql
         games: [Game]
         authors: [Author]
     }
-
-
-
 `;
 
 //graphQL data types we can use:
