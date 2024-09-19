@@ -17,7 +17,7 @@ export const typeDefs = `#graphql
 
     #Entry Points (this is required)
     type Query {
-        reviews: [Reviews]
+        reviews: [Review]
         games: [Game]
         authors: [Author]
     }
